@@ -28,7 +28,7 @@
     "@babel/core": "^7.20.0",
     "@types/react": "~18.2.45",
     "aws-cdk": "^2.165.0",
-    "aws-cdk-lib": "^2.165.0",
+    "aws-cdk-lib": "^2.177.0",
     "constructs": "^10.4.2",
     "esbuild": "^0.24.0",
     "tsx": "^4.19.2",
